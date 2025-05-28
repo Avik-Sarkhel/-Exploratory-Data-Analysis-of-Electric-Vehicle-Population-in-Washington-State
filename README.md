@@ -1,4 +1,4 @@
-# ⚡ Exploratory Data Analysis of Electric Vehicle Trends in Washington State
+# ⚡Comprehensive Exploratory Data Analysis and Visualization of Electric Vehicle Trends Using Python and Power BI
 
 This project explores electric vehicle (EV) adoption trends across Washington State using Python-based data analysis and interactive Power BI dashboards. The analysis covers both whole-dataset insights and company-specific trends for the top 5 EV makers.
 
